@@ -1,88 +1,54 @@
-# Ping Pong Game
 
-![Ping Pong Game Menu](./menu.png)
 
-## Overview
+[![Header](https://github.com/Antot-12/antot-12/blob/main/assets/header.png)](https://www.youtube.com/watch?v=xFMpwrP2cxw)
 
-Ping Pong Game is a simple multiplayer game implemented in Java. You can play either against another player or against an AI with different difficulty levels.
+##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java Developer and Youtuber 
 
-## Features
+# Languages & Tools:
+ 
 
-- **Two Player Mode**: Play against another player.
-- **Single Player Mode**: Play against AI with easy and hard difficulty levels.
-- **Score Limit**: The game ends when a player reaches 10 points.
-- **Smooth Graphics**: Smooth paddle and ball movement.
-- **User-Friendly Interface**: Easy to navigate and play.
+![java](https://img.shields.io/badge/_java-090909?style=for-the-badge&logo=java&logoColor=F7DF1E)
+![kotlin](https://img.shields.io/badge/_kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=#3776AB)
+![postgresql](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![springboot](https://img.shields.io/badge/spring_boot-090909?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
+![C++](https://img.shields.io/badge/_C++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/_C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![html5](https://img.shields.io/badge/html_5-090909?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![css3](https://img.shields.io/badge/css_3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+![adobe](https://img.shields.io/badge/adobe-090909?style=for-the-badge&logo=adobe&logoColor=FF0000)
+![raspberrypi](https://img.shields.io/badge/raspberry_pi-090909?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=#F05032) 
 
-## How to Play
 
-### Two Player Mode
 
-1. **Start the Server**:
-    - The server is automatically started when you select the two-player mode.
-    - Both clients will connect to the server and start the game.
 
-2. **Control the Paddles**:
-    - **Player 1**: Use the `UP` and `DOWN` arrow keys to move the paddle.
-    - **Player 2**: Use the `W` and `S` keys to move the paddle.
+### Follow me:
 
-### Single Player Mode
 
-1. **Choose Difficulty**:
-    - **Easy AI**: Select "1 Player vs Easy AI".
-    - **Hard AI**: Select "1 Player vs Hard AI".
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-shyrko/)
+[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/@BOMBAProductionA)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/antot__12/)
 
-2. **Control the Paddle**:
-    - Use the `UP` and `DOWN` arrow keys to move the paddle.
+ ### Stats:
 
-### Winning the Game
+<div>
+  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=Antot-12&theme=tokyonight&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&line_height=21&hide=contribs">
+  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antot-12&theme=tokyonight&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
+</div>
+ 
 
-- The first player to reach 10 points wins the game.
-- A prompt will appear asking if you want to play again. Select "Yes" to restart the game or "No" to exit.
+<!--
+**Antot-12/antot-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Controls
+Here are some ideas to get you started:
 
-- **Player 1**: Use the `UP` and `DOWN` arrow keys to move the paddle.
-- **Player 2**: Use the `W` and `S` keys to move the paddle in two-player mode.
-
-## Setup
-
-1. **Clone the Repository**:
-    ```sh
-    git clone https://github.com/Antot-12/ping-pong.git
-    cd pingponggame
-    ```
-
-2. **Compile the Java Files**:
-    ```sh
-    ./gradlew build
-    ```
-
-3. **Run the Game**:
-    ```sh
-    ./gradlew run
-    ```
-
-## Project Structure
-
-- **src/main/java/Antot_12**: Contains the Java source files.
-- **images**: Contains images used in the README.
-- **build.gradle**: The Gradle build file.
-
-## Screenshots
-
-### Main Menu
-
-![Main Menu](./menu.png)
-
-### Two Player Mode
-
-![Two Player Mode](./2_pl.png)
-
-### Single Player Mode (AI)
-
-![Single Player Mode (AI)](./AI.png)
-
-## Authors
-
-- **Antot_12** - *Initial work* - [My GitHub](https://github.com/Antot-12)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
