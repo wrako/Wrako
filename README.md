@@ -1,6 +1,6 @@
 
 
-##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java Developer and Youtuber 
+##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m beginner Java Developer 
 
 # Languages & Tools:
  
