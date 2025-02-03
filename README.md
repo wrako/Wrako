@@ -1,19 +1,51 @@
+# Hi there! 👋 I'm [Your Name]  
 
+Aspiring **Software Developer** passionate about building scalable applications, exploring new technologies, and solving challenging problems. I'm currently looking for my first opportunity in the industry.  
 
-##   Hi! I wish You a great day. 👋🏻 About me:  <br><br>  I`m backend Java Developer 
+---
 
-# Languages & Tools:
- 
+## 🛠 Tech Stack
 
-![java](https://img.shields.io/badge/_java-090909?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=#3776AB)
-![postgresql](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
-![springboot](https://img.shields.io/badge/spring_boot-090909?style=for-the-badge&logo=springboot&logoColor=#6DB33F)
-![C](https://img.shields.io/badge/_C-090909?style=for-the-badge&logo=C&logoColor=A8B9CC)
-![html5](https://img.shields.io/badge/html_5-090909?style=for-the-badge&logo=html5&logoColor=#E34F26)
-![css3](https://img.shields.io/badge/css_3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
-![raspberrypi](https://img.shields.io/badge/raspberry_pi-090909?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-![git](https://img.shields.io/badge/git-090909?style=for-the-badge&logo=git&logoColor=#F05032) 
+### Backend Development
+- **Java, OOP, Docker**  
+- **JDBC, JPA, Hibernate, MySQL, PostgreSQL**  
+- **Spring Boot, Spring Core, Spring Data, Spring MVC, Spring Security**  
+- **Redis, Azure Blob Storage**  
+- **REST API**  
+- **Maven, Gradle**  
+- **Mockito, JUnit**  
 
+### Frontend Development
+- **HTML, CSS**  
+- **TypeScript, JavaScript**  
+- **React, Svelte, MUI, Tailwind CSS**  
 
+### Data Science & Scripting
+- **Python**  
+- **Pandas, NumPy**  
+- **Matplotlib, Seaborn, Scikit-learn**  
 
+### DevOps & Tools
+- **GitHub, GitLab, Linux**  
+
+---
+
+## 📌 Projects  
+🚀 Check out some of my projects in my repositories!  
+
+- [Project 1 - Brief description](https://github.com/yourusername/project1)  
+- [Project 2 - Brief description](https://github.com/yourusername/project2)  
+- [Project 3 - Brief description](https://github.com/yourusername/project3)  
+
+---
+
+## 📫 Let's Connect  
+💼 Open to work and collaboration opportunities!  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+
+---
+
+⭐ **Feel free to explore my repositories and leave a star if you like them!** ⭐
